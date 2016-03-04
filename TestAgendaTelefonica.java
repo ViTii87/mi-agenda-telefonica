@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class TestArrayListInt here.
+ * Write a description of class TestAgendaTelefonica here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
@@ -11,7 +11,7 @@ public class TestAgendaTelefonica
     private int numeroTestsFallados;
 
     /**
-     * Constructor for objects of class TestArrayListInt
+     * Constructor for objects of class TestAgendaTelefonica
      */
     public TestAgendaTelefonica()
     {   

@@ -7,7 +7,7 @@ import java.util.HashMap;
  */
 public class AgendaTelefonica
 {
-    // instance variables - replace the example below with your own
+    // Atributo de la Clase HashMap
     private HashMap<String,String> agenda;
 
     /**
